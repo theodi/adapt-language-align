@@ -1,10 +1,10 @@
-#Adapt language matcher
+# Adapt language matcher
 
 This script is designed to take two or more adapt 2 courses built in the authoring tool and align the IDs of both so they can be multi-language and tracked the same. 
 
 For this to work both courses MUST be exactly the same structure!
 
-##How to use
+## How to use
 
 1. Download the two (or more) courses from the authoring tool (download, not source code)
 
